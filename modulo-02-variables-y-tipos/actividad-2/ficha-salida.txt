@@ -1,0 +1,5 @@
+nombre torinco <class 'str'>
+ruedas 16 <class 'int'>
+diametro_rueda 3.14 <class 'float'>
+bateria 100 <class 'int'>
+encendido True <class 'bool'>
