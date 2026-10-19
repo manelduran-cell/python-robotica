@@ -5,4 +5,9 @@ Traceback (most recent call last):
   File "c:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos\actividad-8\depuration.py", line 2, in <module>
     entero= int (texto_entero)
 ValueError: invalid literal for int() with base 10: 'manel'
-PS C:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos> 
+PS C:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos>
+File "c:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos\actividad-8\depuration.py", line 2, in <module>
+    print(nombr_robot)
+          ^^^^^^^^^^^
+NameError: name 'nombr_robot' is not defined. Did you mean: 'nombre_robot'?
+PS C:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos>  

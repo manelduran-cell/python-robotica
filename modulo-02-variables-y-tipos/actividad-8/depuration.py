@@ -1,2 +1,2 @@
-texto_entero ="5" 
-entero= int (texto_entero)
+nombre_robot = "R2-D2"
+print(nombre_robot)
