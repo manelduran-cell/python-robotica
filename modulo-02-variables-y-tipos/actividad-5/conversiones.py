@@ -8,7 +8,7 @@ print("texto_decimal",type(texto_decimal))
 texto_decimal=float(texto_decimal)
 print("texto_decimal",type(texto_decimal))
 
-numero=42
+numero="42"
 print("numero",type(texto_decimal))
 texto_decimal=str(texto_decimal)
 print("numero ", type(numero))
