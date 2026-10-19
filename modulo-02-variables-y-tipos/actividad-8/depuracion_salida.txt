@@ -1,0 +1,8 @@
+   entero= int (texto_entero)
+ValueError: invalid literal for int() with base 10: 'manel'
+PS C:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos> & C:\Users\Elitebook\AppData\Local\Python\pythoncore-3.15-64\python.exe c:/Users/Elitebook/Documents/python-robotica/modulo-02-variables-y-tipos/actividad-8/depuration.py
+Traceback (most recent call last):
+  File "c:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos\actividad-8\depuration.py", line 2, in <module>
+    entero= int (texto_entero)
+ValueError: invalid literal for int() with base 10: 'manel'
+PS C:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos> 
