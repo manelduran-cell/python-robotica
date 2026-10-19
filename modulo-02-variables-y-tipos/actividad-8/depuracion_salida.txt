@@ -11,3 +11,8 @@ File "c:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos\a
           ^^^^^^^^^^^
 NameError: name 'nombr_robot' is not defined. Did you mean: 'nombre_robot'?
 PS C:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos>  
+File "c:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos\actividad-8\depuration.py", line 1, in <module>
+    print(velocidad)
+          ^^^^^^^^^
+NameError: name 'velocidad' is not defined
+PS C:\Users\Elitebook\Documents\python-robotica\modulo-02-variables-y-tipos> 
