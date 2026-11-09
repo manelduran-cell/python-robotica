@@ -1,0 +1,5 @@
+3
+3
+Más cercano: 5
+Más lejano: 40
+['ultrasonidos', 'infrarrojos']
