@@ -1,0 +1,2 @@
+
+print("ultrasonidos", "infrarrojos", "luz", sep=" | ")
